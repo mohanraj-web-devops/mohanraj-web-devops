@@ -1,6 +1,6 @@
 # 👨‍💻 Web Developer & DevOps Engineer
 
-Hi! I'm [Your Name], a passionate **Web Developer** and **DevOps Engineer** who loves solving complex problems and automating processes. My tech stack includes modern web development frameworks, backend services, and cloud infrastructure solutions.
+Hi! I'm Mohanraj Rajaram, a passionate **Web Developer** and **DevOps Engineer** who loves solving complex problems and automating processes. My tech stack includes modern web development frameworks, backend services, and cloud infrastructure solutions.
 
 ---
 
